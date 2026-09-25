@@ -4,6 +4,10 @@ A small command-line "art gallery" written in Python. Run it, type a keyword, an
 
 Built as a fun little side project — took about 1-3 hours from start to finish.
 
+## Showcase
+
+![Showcase](showcase.png)
+
 ## Features
 
 - 60+ pieces of ASCII art covering animals, tech/OS logos, space, vehicles, and more
@@ -60,8 +64,9 @@ A `SIGINT` handler (`Ctrl+C`) is registered up front so exiting the program alwa
 
 ```
 .
-├── ascii-library.py      # the whole program lives here
-└── README.md    # this file
+├── ascii-library.py   # the whole program lives here
+├── showcase.png       # screenshot used in this README
+└── README.md          # this file
 ```
 
 Everything is intentionally kept in one file — there's no logic complex enough yet to justify splitting it up.
