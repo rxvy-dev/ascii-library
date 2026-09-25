@@ -273,6 +273,28 @@ nasa
 moon
 plane
 guitar
+bird
+dolphin
+fish
+moose
+wolf
+submarine
+car
+boat
+helicoper
+ballon
+teddy
+camera
+pikachu
+earth
+pacman
+saturn
+telescpoe
+alien
+beach
+tent
+tornado
+sunset
 """)
 
         elif user == 'gentoo':
